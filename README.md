@@ -16,6 +16,12 @@ Sou um desenvolvedor back-end que trabalha nas linguagens: Lua, C++, C#, JavaScr
 
 [MoonWalkDBD](https://github.com/jet2tlf/MoonWalkDBD) um projeto utilizado para andar de costas no jogo dead by daylight
 
+## Como me contatar
+
+pelo discord: _mm_shuffle_epi32
+
+ou pelo email: dev.maple@proton.me
+
 ## Redes
 
 [Twitter](https://twitter.com/JET2TLF) as vezes eu posto algo kkk
