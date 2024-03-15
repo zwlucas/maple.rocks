@@ -1,4 +1,4 @@
-### Aoba, Lucas Faria aqui! 👋
+### Aoba, Lucas aqui! 👋
 
 ## Quem sou?
 
